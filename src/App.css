@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+@font-face {
+  font-family: "W95FA Regular";   /*Can be any text*/
+  src: local('W95FA'),
+  url('src/fonts/w95fa/w95fa.woff') format("truetype");
+}
